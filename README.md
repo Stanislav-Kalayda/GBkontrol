@@ -34,3 +34,4 @@
 > И выводим наш массив при помощи вызова функции **arrayPrint(arrayResult)**.
 
 ## Создал блок - схему
+![diag drawio](https://github.com/Freaz57/GBkontrol/assets/128412186/a0430a5a-1cd9-4468-a1bf-40785184c73d)
