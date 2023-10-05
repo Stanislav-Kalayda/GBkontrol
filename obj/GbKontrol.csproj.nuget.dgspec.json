@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Илья\\Desktop\\GbKontrol\\GbKontrol.csproj": {}
+    "C:\\Users\\stask\\OneDrive\\Рабочий стол\\DZ 01\\GBkontrol\\GbKontrol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Илья\\Desktop\\GbKontrol\\GbKontrol.csproj": {
+    "C:\\Users\\stask\\OneDrive\\Рабочий стол\\DZ 01\\GBkontrol\\GbKontrol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Илья\\Desktop\\GbKontrol\\GbKontrol.csproj",
+        "projectUniqueName": "C:\\Users\\stask\\OneDrive\\Рабочий стол\\DZ 01\\GBkontrol\\GbKontrol.csproj",
         "projectName": "GbKontrol",
-        "projectPath": "C:\\Users\\Илья\\Desktop\\GbKontrol\\GbKontrol.csproj",
-        "packagesPath": "C:\\Users\\Илья\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Илья\\Desktop\\GbKontrol\\obj\\",
+        "projectPath": "C:\\Users\\stask\\OneDrive\\Рабочий стол\\DZ 01\\GBkontrol\\GbKontrol.csproj",
+        "packagesPath": "C:\\Users\\stask\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\stask\\OneDrive\\Рабочий стол\\DZ 01\\GBkontrol\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Илья\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\stask\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     }
